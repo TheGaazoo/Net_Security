@@ -8,8 +8,10 @@
 
 В качестве решения приложить:
 архив с захваченными данными
-<p>[Файл wikipedia.org.pcapng](wikipedia.org.pcapng)
-<p>скриншот, где видно работу расшифровки трафика
+[Файл "wikipedia.org.pcapng"](wikipedia.org.pcapng)
+
+скриншот, где видно работу расшифровки трафика
 ![alt text](Traffic_encrypt.png)
+
 скриншот с Certificate и Serial Number.
 ![alt text](Cert_info.png)
