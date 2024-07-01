@@ -16,7 +16,7 @@ P.S. Замучился устанавливать и настраивать Ope
 <image src="ping_real_machine.png">
 
 2. Запустим сканирование по IP-адресу руальной машины в нашей подсети.
-<image src="openvas-start.png">
+<image src="openvas_start.png">
 
 Дождемся окончания сканирования:
 <image src="Scanning_complete.png">
